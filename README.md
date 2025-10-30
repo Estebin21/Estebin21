@@ -11,9 +11,9 @@
 
 
 	
-## <picture><img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Fpersona_7531708&psig=AOvVaw3w-jP_wv1LMNvOV95rsQBS&ust=1761949485775000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjImrz7zJADFQAAAAAdAAAAABAE" width = 50px></picture> **About me**
+## <picture><img src ="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Fpersona_7531708&psig=AOvVaw3w-jP_wv1LMNvOV95rsQBS&ust=1761949485775000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjImrz7zJADFQAAAAAdAAAAABAE](https://media.discordapp.net/attachments/247457843911983104/1305343730794106940/Horse.gif?ex=6904b9d5&is=69036855&hm=aaebdbc360cb657566a220ea786dacc41767fced4b019445880fa80422a3a9be&=)" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fjames-doakes-iuu3hRoxlr2ETPucZW&psig=AOvVaw0uuwmdEXAIyqyZhKBh6ZY8&ust=1761949437216000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCA8qT7zJADFQAAAAAdAAAAABAR" width = 250px></picture>
+<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzd4ZzFpanltYnUwNzdjdHZpaGQ1d2kxdmhkYjNoeHgzaTh0dmI2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iuu3hRoxlr2ETPucZW/giphy.gif" width = 250px></picture>
 
 <br>
 
